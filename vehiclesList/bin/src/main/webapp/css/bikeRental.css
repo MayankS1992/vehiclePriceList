@@ -1,0 +1,146 @@
+#topbar {
+    width :100% !important;
+    margin: 0 auto;
+    height:26px;
+    margin-left: 10%;
+}
+body {
+    font-family: Arial,Helvetica,freesans,sans-serif;
+    overflow: hidden;
+}
+#goBack
+{
+    position: relative !important;
+    bottom: 0% !important;
+    margin-left: 44% !important;
+}
+#map
+{
+    width: 96%;
+    height: 60%;
+    float: right;
+    position: relative;
+    overflow: hidden;
+    padding-left: 52px !important;
+    margin-top: -49px !important;
+}
+#button{
+    width: 122%;
+    margin-right: 14%;
+    position: relative;
+    left: -79%;
+}
+#returnBike{
+    width: 122%;
+    margin-right: 14%;
+    position: relative;
+    left: -79%;
+}
+#header
+{
+    border: 1px #CCCCCC solid !important;
+}
+#ticketForm{
+    position: relative;
+    margin-left: 36%;
+}
+.showcss{ display:block;}
+.hidecss{ display:none;}
+.UL_logo { display: block; float: left; background: url(https://media.glassdoor.com/sqll/227921/leaseplan-infrastructure-services-squarelogo-1466794415688.png) no-repeat; height: 85px; width: 363px; margin-top: 5px; }
+.sign-In {
+    float: right;
+    border-left: none;
+    margin: 95px -93px;
+    top: -34px;
+    position: relative;
+    border-right: 1px #CCCCCC solid;
+    width: 173px;
+}
+#view {
+    height: 74% !important;
+    width: 96% !important;
+    margin-left: 2% !important;
+}
+.signInfont {
+    font-family: Arial,Helvetica,freesans,sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    position: relative;
+    top: 8px;
+}
+#secondWindow{
+    margin-left: 30%;
+    position: relative;
+    margin-top: 3%;
+}
+.tabs  {
+    top: 25%;
+    cursor: pointer;
+    position: relative;
+    border-right: 1px #CCCCCC solid !important;
+    border-top: 1px #CCCCCC solid !important;
+    border-bottom: 1px #CCCCCC solid !important;
+    height: 4%;
+    float: left;
+    width: 11% !important;
+    margin-left: 0;
+    border-left: 1px #CCCCCC solid !important;
+}
+.tabsfont {
+    font-family: Arial,Helvetica,freesans,sans-serif;
+    float: right;
+    font-weight: 600;
+    font-size: 66%;
+    top: 11px;
+    margin-right: 90px;
+    margin-left: 96px;
+}
+h1 {
+    margin: 0;
+    color: white;
+    font-size: 50px;
+    font-weight: normal;
+    padding: 6px 0 0;
+    position: relative;
+    left: -19.7%;
+}
+
+.ui-body-c .ui-link:hover {
+    color: black;
+}
+#lowerPanel {
+    margin-left: 56% !important;
+    margin-top: 24% !important;
+    z-index: 99999999999;
+}
+#rentalHistory
+{
+    margin-left: 30% !important;
+}
+.ui-jqgrid .ui-jqgrid-caption {
+    text-align: center !important;
+    height: 0px;
+}
+.ui-widget-header {
+    border: 1px solid #dddddd;
+    background: #E9E9C7 !important;
+    color: #333333;
+    font-weight: bold;
+}
+.ui-jqgrid .ui-jqgrid-titlebar {
+    padding: 4.3em 0.2em 2.2em 1.3em !important;
+    position: relative;
+    font-size: 12px;
+    border-left: 0 none;
+    border-right: 0 none;
+    border-top-width: 0;
+    border-top-style: none;
+}
+
+h2 {
+    font-size: 98%;
+    position: relative;
+    top: 93px;
+    font-family: 'Bookman Old Style', sans-serif;
+    width: 97%;
+}

@@ -1,0 +1,7 @@
+com\leasePlan\reg\service\api\controller\VehicleController.class
+com\leasePlan\reg\service\api\service\VehicleServiceImpl.class
+com\leasePlan\reg\service\api\service\VehicleService.class
+com\leasePlan\reg\service\api\model\Options.class
+com\leasePlan\reg\service\api\PriceListApplication.class
+com\leasePlan\reg\service\api\dao\VehicleRepository.class
+com\leasePlan\reg\service\api\model\Vehicle.class
